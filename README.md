@@ -1,6 +1,4 @@
-# Returnal UEVR
-
-A VR first-person mod for **UEVR** when playing *Returnal*.
+![Returnal VR](https://raw.githubusercontent.com/letmein-vr/RETURNAL_UEVR/main/screenshots/returnalvr.png)
 
 > [!IMPORTANT]
 > **UEVR Latest Nightly Required** — Latest nightly here: https://github.com/praydog/UEVR-nightly/releases
