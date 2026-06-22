@@ -23,7 +23,7 @@
 
 ![Returnal VR](https://raw.githubusercontent.com/letmein-vr/RETURNAL_UEVR/main/screenshots/IMG_4743.jpeg)
 
-## ⚠️ Known Issues
+## ⚠️ Known Issues ⚠️
 * **Parasite Visibility**: Parasite hiding relies on actor name matching and may not catch all parasite types depending on level.
 * **Cinematic Transitions**: Brief frame where object hooks disable before the cinematic camera fully takes over may cause a visible pop.
 * **Graphical Issues**: Some geometry and shadow artefacts in first-person that are inherent to a game not originally built for VR. Cvars should fix shadows along with correct in game settings.
