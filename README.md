@@ -19,7 +19,7 @@
 * **Cinematic Handling**: Automatic detection of cinematic camera sequences (`BP_Cinematic`). Object hooks are disabled and VR aim method switches during cutscenes to preserve the original cinematic presentation, then restores on exit.
 * **Parasites Hidden**: Parasite actors that attach to Selene are automatically hidden in VR to prevent visual clutter in first person view.
 
-## CONTROLS
+## Controls
 
 ![Returnal VR](https://raw.githubusercontent.com/letmein-vr/RETURNAL_UEVR/main/screenshots/IMG_4743.jpeg)
 
