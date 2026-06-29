@@ -21,7 +21,11 @@
 
 ## Controls
 
+* **Note**: These correspond to my bindings in game, yours may differ depending on how you rebind controls in game.
+
 ![Returnal VR](https://raw.githubusercontent.com/letmein-vr/RETURNAL_UEVR/main/screenshots/returnalcontrols.jpg)
+
+![Returnal VR](https://raw.githubusercontent.com/letmein-vr/RETURNAL_UEVR/main/screenshots/returnalgamepad.png)
 
 ## ⚠️ Known Issues ⚠️
 * **Parasite Visibility**: Parasite hiding relies on actor name matching and may not catch all parasite types depending on level.
