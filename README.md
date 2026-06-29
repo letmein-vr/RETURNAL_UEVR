@@ -21,7 +21,7 @@
 
 ## Controls
 
-![Returnal VR](https://raw.githubusercontent.com/letmein-vr/RETURNAL_UEVR/main/screenshots/IMG_4743.jpeg)
+![Returnal VR](https://raw.githubusercontent.com/letmein-vr/RETURNAL_UEVR/main/screenshots/returnalcontrols.jpeg)
 
 ## ⚠️ Known Issues ⚠️
 * **Parasite Visibility**: Parasite hiding relies on actor name matching and may not catch all parasite types depending on level.
