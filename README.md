@@ -29,5 +29,6 @@
 
 ## ⚠️ Known Issues ⚠️
 
+* **House and Ship**: These are both entirely broken and will not work in VR. Play these sections in flat.
 * **Cinematic Transitions**: Brief frame where object hooks disable before the cinematic camera fully takes over may cause a visible pop.
 * **Graphical Issues**: Some geometry and shadow artefacts in first-person that are inherent to a game not originally built for VR. Cvars should fix shadows along with correct in game settings.
